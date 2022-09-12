@@ -1,2 +1,2 @@
-Frome inginx
-COPY /usr/share/nginx/htmls
+FROM  ubuntu
+COPY . /usr/share/nginx/htmls
